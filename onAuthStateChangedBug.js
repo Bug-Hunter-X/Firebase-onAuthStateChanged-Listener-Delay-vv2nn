@@ -1,0 +1,1 @@
+The Firebase SDK's `onAuthStateChanged` listener might not trigger immediately after a user signs in or out. This can lead to unexpected behavior if your app relies on the authentication state to update the UI or access data.
